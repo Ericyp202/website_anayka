@@ -1,0 +1,767 @@
+[29-Dec-2023 15:06:55 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Eric\Local Sites\test\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[02-Jan-2024 11:36:22 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Eric\Local Sites\test\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[02-Jan-2024 12:11:38 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Eric\Local Sites\test\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[02-Jan-2024 12:11:49 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Eric\Local Sites\test\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[02-Jan-2024 12:12:16 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Eric\Local Sites\test\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[04-Jan-2024 22:20:22 UTC] PHP Warning:  Array to string conversion in C:\Users\Eric\Local Sites\test\app\public\wp-includes\functions.php on line 3844
+[04-Jan-2024 22:20:34 UTC] PHP Warning:  Array to string conversion in C:\Users\Eric\Local Sites\test\app\public\wp-includes\functions.php on line 3844
+[04-Jan-2024 22:20:38 UTC] PHP Warning:  Array to string conversion in C:\Users\Eric\Local Sites\test\app\public\wp-includes\functions.php on line 3844
+[04-Jan-2024 22:20:40 UTC] PHP Warning:  Array to string conversion in C:\Users\Eric\Local Sites\test\app\public\wp-includes\functions.php on line 3844
+[04-Jan-2024 22:20:44 UTC] PHP Warning:  Array to string conversion in C:\Users\Eric\Local Sites\test\app\public\wp-includes\functions.php on line 3844
+[04-Jan-2024 22:20:55 UTC] PHP Warning:  Array to string conversion in C:\Users\Eric\Local Sites\test\app\public\wp-includes\functions.php on line 3844
+[04-Jan-2024 22:23:51 UTC] PHP Warning:  Array to string conversion in C:\Users\Eric\Local Sites\test\app\public\wp-includes\functions.php on line 3844
+[04-Jan-2024 22:30:08 UTC] PHP Warning:  Array to string conversion in C:\Users\Eric\Local Sites\test\app\public\wp-includes\functions.php on line 3844
+[05-Jan-2024 01:39:51 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Eric\Local Sites\test\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[09-Jan-2024 15:28:16 UTC] Sync process for Gutenberg Blocks has started.
+[09-Jan-2024 15:28:16 UTC] CATEGORY: Storing in option ast-block-templates-categories
+[09-Jan-2024 15:28:16 UTC] BLOCK: Requests count 8
+[09-Jan-2024 15:28:16 UTC] BLOCK: Importing request 1 ..
+[09-Jan-2024 15:28:16 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=1&wireframe=yes
+[09-Jan-2024 15:28:17 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[09-Jan-2024 15:28:17 UTC] BLOCK: Completed request 1
+[09-Jan-2024 15:28:17 UTC] BLOCK: Importing request 2 ..
+[09-Jan-2024 15:28:17 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=2&wireframe=yes
+[09-Jan-2024 15:28:17 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[09-Jan-2024 15:28:18 UTC] BLOCK: Completed request 2
+[09-Jan-2024 15:28:18 UTC] BLOCK: Importing request 3 ..
+[09-Jan-2024 15:28:18 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=3&wireframe=yes
+[09-Jan-2024 15:28:18 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[09-Jan-2024 15:28:19 UTC] BLOCK: Completed request 3
+[09-Jan-2024 15:28:19 UTC] BLOCK: Importing request 4 ..
+[09-Jan-2024 15:28:19 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=4&wireframe=yes
+[09-Jan-2024 15:28:19 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[09-Jan-2024 15:28:20 UTC] BLOCK: Completed request 4
+[09-Jan-2024 15:28:20 UTC] BLOCK: Importing request 5 ..
+[09-Jan-2024 15:28:20 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=5&wireframe=yes
+[09-Jan-2024 15:28:20 UTC] BLOCK: Storing in option ast-block-templates-blocks-5
+[09-Jan-2024 15:28:20 UTC] BLOCK: Completed request 5
+[09-Jan-2024 15:28:20 UTC] BLOCK: Importing request 6 ..
+[09-Jan-2024 15:28:20 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=6&wireframe=yes
+[09-Jan-2024 15:28:21 UTC] BLOCK: Storing in option ast-block-templates-blocks-6
+[09-Jan-2024 15:28:21 UTC] BLOCK: Completed request 6
+[09-Jan-2024 15:28:21 UTC] BLOCK: Importing request 7 ..
+[09-Jan-2024 15:28:21 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=7&wireframe=yes
+[09-Jan-2024 15:28:22 UTC] BLOCK: Storing in option ast-block-templates-blocks-7
+[09-Jan-2024 15:28:23 UTC] BLOCK: Completed request 7
+[09-Jan-2024 15:28:23 UTC] BLOCK: Importing request 8 ..
+[09-Jan-2024 15:28:23 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=8&wireframe=yes
+[09-Jan-2024 15:28:23 UTC] BLOCK: Storing in option ast-block-templates-blocks-8
+[09-Jan-2024 15:28:23 UTC] BLOCK: Completed request 8
+[09-Jan-2024 15:28:23 UTC] SITE: Getting Total Sites
+[09-Jan-2024 15:28:23 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg&per_page=30
+[09-Jan-2024 15:28:23 UTC] SITE: Request count 7
+[09-Jan-2024 15:28:23 UTC] SITE: Importing request 1 ..
+[09-Jan-2024 15:28:23 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=1&page-builder=gutenberg
+[09-Jan-2024 15:28:24 UTC] SITE: Storing in option ast-block-templates-sites-1
+[09-Jan-2024 15:28:24 UTC] SITE: Completed request 1
+[09-Jan-2024 15:28:24 UTC] SITE: Importing request 2 ..
+[09-Jan-2024 15:28:24 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=2&page-builder=gutenberg
+[09-Jan-2024 15:28:24 UTC] SITE: Storing in option ast-block-templates-sites-2
+[09-Jan-2024 15:28:24 UTC] SITE: Completed request 2
+[09-Jan-2024 15:28:24 UTC] SITE: Importing request 3 ..
+[09-Jan-2024 15:28:24 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=3&page-builder=gutenberg
+[09-Jan-2024 15:28:25 UTC] SITE: Storing in option ast-block-templates-sites-3
+[09-Jan-2024 15:28:25 UTC] SITE: Completed request 3
+[09-Jan-2024 15:28:25 UTC] SITE: Importing request 4 ..
+[09-Jan-2024 15:28:25 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=4&page-builder=gutenberg
+[09-Jan-2024 15:28:25 UTC] SITE: Storing in option ast-block-templates-sites-4
+[09-Jan-2024 15:28:25 UTC] SITE: Completed request 4
+[09-Jan-2024 15:28:25 UTC] SITE: Importing request 5 ..
+[09-Jan-2024 15:28:25 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=5&page-builder=gutenberg
+[09-Jan-2024 15:28:25 UTC] SITE: Storing in option ast-block-templates-sites-5
+[09-Jan-2024 15:28:25 UTC] SITE: Completed request 5
+[09-Jan-2024 15:28:25 UTC] SITE: Importing request 6 ..
+[09-Jan-2024 15:28:25 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=6&page-builder=gutenberg
+[09-Jan-2024 15:28:26 UTC] SITE: Storing in option ast-block-templates-sites-6
+[09-Jan-2024 15:28:26 UTC] SITE: Completed request 6
+[09-Jan-2024 15:28:26 UTC] SITE: Importing request 7 ..
+[09-Jan-2024 15:28:26 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=7&page-builder=gutenberg
+[09-Jan-2024 15:28:26 UTC] SITE: Storing in option ast-block-templates-sites-7
+[09-Jan-2024 15:28:26 UTC] SITE: Completed request 7
+[09-Jan-2024 15:28:26 UTC] Sync process for Gutenberg Blocks is done.
+[09-Jan-2024 15:28:26 UTC] BLOCK: Getting Server Custimizer CSS
+[09-Jan-2024 15:28:26 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/get-customizer-css
+[09-Jan-2024 15:33:51 UTC] Cron reschedule event error for hook: nf_marketing_feed_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"nf-weekly","args":[],"interval":604800}
+[09-Jan-2024 15:33:51 UTC] Cron reschedule event error for hook: nf_weekly_promotion_update, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"nf-weekly","args":[],"interval":604800}
+[10-Jan-2024 21:46:41 UTC] Blocks are up to date.
+[10-Jan-2024 21:52:39 UTC] PHP Warning:  Array to string conversion in C:\Users\Eric\Local Sites\test\app\public\wp-includes\functions.php on line 3844
+[11-Jan-2024 23:08:02 UTC] Blocks are up to date.
+[13-Jan-2024 16:37:17 UTC] Sync process for Gutenberg Blocks has started.
+[13-Jan-2024 16:37:17 UTC] CATEGORY: Storing in option ast-block-templates-categories
+[13-Jan-2024 16:37:17 UTC] BLOCK: Requests count 8
+[13-Jan-2024 16:37:17 UTC] BLOCK: Importing request 1 ..
+[13-Jan-2024 16:37:17 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=1&wireframe=yes
+[13-Jan-2024 16:37:18 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[13-Jan-2024 16:37:18 UTC] BLOCK: Completed request 1
+[13-Jan-2024 16:37:18 UTC] BLOCK: Importing request 2 ..
+[13-Jan-2024 16:37:18 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=2&wireframe=yes
+[13-Jan-2024 16:37:20 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[13-Jan-2024 16:37:20 UTC] BLOCK: Completed request 2
+[13-Jan-2024 16:37:20 UTC] BLOCK: Importing request 3 ..
+[13-Jan-2024 16:37:20 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=3&wireframe=yes
+[13-Jan-2024 16:37:22 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[13-Jan-2024 16:37:22 UTC] BLOCK: Completed request 3
+[13-Jan-2024 16:37:22 UTC] BLOCK: Importing request 4 ..
+[13-Jan-2024 16:37:22 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=4&wireframe=yes
+[13-Jan-2024 16:37:24 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[13-Jan-2024 16:37:24 UTC] BLOCK: Completed request 4
+[13-Jan-2024 16:37:24 UTC] BLOCK: Importing request 5 ..
+[13-Jan-2024 16:37:24 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=5&wireframe=yes
+[13-Jan-2024 16:37:25 UTC] BLOCK: Storing in option ast-block-templates-blocks-5
+[13-Jan-2024 16:37:25 UTC] BLOCK: Completed request 5
+[13-Jan-2024 16:37:25 UTC] BLOCK: Importing request 6 ..
+[13-Jan-2024 16:37:25 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=6&wireframe=yes
+[13-Jan-2024 16:37:26 UTC] BLOCK: Storing in option ast-block-templates-blocks-6
+[13-Jan-2024 16:37:26 UTC] BLOCK: Completed request 6
+[13-Jan-2024 16:37:26 UTC] BLOCK: Importing request 7 ..
+[13-Jan-2024 16:37:26 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=7&wireframe=yes
+[13-Jan-2024 16:37:27 UTC] BLOCK: Storing in option ast-block-templates-blocks-7
+[13-Jan-2024 16:37:28 UTC] BLOCK: Completed request 7
+[13-Jan-2024 16:37:28 UTC] BLOCK: Importing request 8 ..
+[13-Jan-2024 16:37:28 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=8&wireframe=yes
+[13-Jan-2024 16:37:28 UTC] BLOCK: Storing in option ast-block-templates-blocks-8
+[13-Jan-2024 16:37:28 UTC] BLOCK: Completed request 8
+[13-Jan-2024 16:37:28 UTC] SITE: Getting Total Sites
+[13-Jan-2024 16:37:28 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg&per_page=30
+[13-Jan-2024 16:37:29 UTC] SITE: Request count 7
+[13-Jan-2024 16:37:29 UTC] SITE: Importing request 1 ..
+[13-Jan-2024 16:37:29 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=1&page-builder=gutenberg
+[13-Jan-2024 16:37:29 UTC] SITE: Storing in option ast-block-templates-sites-1
+[13-Jan-2024 16:37:30 UTC] SITE: Completed request 1
+[13-Jan-2024 16:37:30 UTC] SITE: Importing request 2 ..
+[13-Jan-2024 16:37:30 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=2&page-builder=gutenberg
+[13-Jan-2024 16:37:30 UTC] SITE: Storing in option ast-block-templates-sites-2
+[13-Jan-2024 16:37:30 UTC] SITE: Completed request 2
+[13-Jan-2024 16:37:30 UTC] SITE: Importing request 3 ..
+[13-Jan-2024 16:37:30 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=3&page-builder=gutenberg
+[13-Jan-2024 16:37:31 UTC] SITE: Storing in option ast-block-templates-sites-3
+[13-Jan-2024 16:37:31 UTC] SITE: Completed request 3
+[13-Jan-2024 16:37:31 UTC] SITE: Importing request 4 ..
+[13-Jan-2024 16:37:31 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=4&page-builder=gutenberg
+[13-Jan-2024 16:37:31 UTC] SITE: Storing in option ast-block-templates-sites-4
+[13-Jan-2024 16:37:31 UTC] SITE: Completed request 4
+[13-Jan-2024 16:37:31 UTC] SITE: Importing request 5 ..
+[13-Jan-2024 16:37:31 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=5&page-builder=gutenberg
+[13-Jan-2024 16:37:32 UTC] SITE: Storing in option ast-block-templates-sites-5
+[13-Jan-2024 16:37:32 UTC] SITE: Completed request 5
+[13-Jan-2024 16:37:32 UTC] SITE: Importing request 6 ..
+[13-Jan-2024 16:37:32 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=6&page-builder=gutenberg
+[13-Jan-2024 16:37:33 UTC] SITE: Storing in option ast-block-templates-sites-6
+[13-Jan-2024 16:37:33 UTC] SITE: Completed request 6
+[13-Jan-2024 16:37:33 UTC] SITE: Importing request 7 ..
+[13-Jan-2024 16:37:33 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=7&page-builder=gutenberg
+[13-Jan-2024 16:37:33 UTC] SITE: Storing in option ast-block-templates-sites-7
+[13-Jan-2024 16:37:33 UTC] SITE: Completed request 7
+[13-Jan-2024 16:37:33 UTC] Sync process for Gutenberg Blocks is done.
+[13-Jan-2024 16:37:33 UTC] BLOCK: Getting Server Custimizer CSS
+[13-Jan-2024 16:37:33 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/get-customizer-css
+[13-Jan-2024 16:42:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 16:42:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 16:42:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 16:42:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 16:42:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 16:42:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 16:42:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 16:42:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 16:42:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 16:42:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 16:42:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 16:42:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 16:42:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 16:42:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 16:42:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 16:42:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:52:08 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:52:08 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:52:08 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:52:08 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:52:08 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:52:08 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:52:08 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:52:08 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:53:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:53:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:53:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:53:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:53:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:53:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:53:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:53:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:53:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:53:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:53:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:53:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:53:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:53:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:53:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:53:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:53:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:53:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:53:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:53:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:53:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:53:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:53:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:53:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:54:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:54:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:54:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:54:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:54:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:54:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:54:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:54:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:54:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:54:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:54:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:54:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:54:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:54:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:54:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:54:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:54:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:54:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:54:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:54:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:54:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:54:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:54:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:54:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:57:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:57:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:57:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:57:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:57:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:57:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:57:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:57:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:57:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:57:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:57:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:57:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:57:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:57:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:57:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:57:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:57:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:57:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:57:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:57:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:57:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:57:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:57:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:57:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:59:10 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:59:10 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:59:10 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:59:10 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:59:10 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:59:10 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:59:10 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:59:10 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:59:10 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:59:10 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:59:10 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:59:10 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:59:10 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:59:10 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:59:10 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 18:59:10 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 19:00:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 19:00:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 19:00:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 19:00:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 19:00:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 19:00:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 19:00:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 19:00:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 19:04:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 19:04:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 19:04:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 19:04:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 19:04:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 19:04:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 19:04:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 19:04:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 19:04:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 19:04:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 19:04:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 19:04:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 19:04:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 19:04:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 19:04:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 19:04:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 19:04:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 19:04:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 19:04:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 19:04:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 19:04:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 19:04:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 19:04:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 19:04:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 19:22:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 19:22:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 19:22:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 19:22:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 19:22:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 19:22:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 19:22:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 19:22:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:34:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:34:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:34:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:34:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:34:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:34:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:34:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:34:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:34:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:34:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:34:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:34:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:34:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:34:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:34:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:34:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:34:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:34:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:34:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:34:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:34:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:34:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:34:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:34:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:49:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:49:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:49:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:49:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:49:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:49:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:49:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:49:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:49:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:49:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:49:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:49:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:49:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:49:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:49:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:49:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:50:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:50:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:51:34 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:51:34 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:53:47 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:53:47 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:53:47 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:53:47 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:53:47 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:53:47 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:53:47 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:53:47 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:54:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:54:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:54:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:54:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:54:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:54:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:54:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[13-Jan-2024 20:54:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[14-Jan-2024 16:42:37 UTC] Sync process for Gutenberg Blocks has started.
+[14-Jan-2024 16:42:37 UTC] CATEGORY: Storing in option ast-block-templates-categories
+[14-Jan-2024 16:42:37 UTC] BLOCK: Requests count 8
+[14-Jan-2024 16:42:37 UTC] BLOCK: Importing request 1 ..
+[14-Jan-2024 16:42:37 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=1&wireframe=yes
+[14-Jan-2024 16:42:38 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[14-Jan-2024 16:42:38 UTC] BLOCK: Completed request 1
+[14-Jan-2024 16:42:38 UTC] BLOCK: Importing request 2 ..
+[14-Jan-2024 16:42:38 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=2&wireframe=yes
+[14-Jan-2024 16:42:39 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[14-Jan-2024 16:42:40 UTC] BLOCK: Completed request 2
+[14-Jan-2024 16:42:40 UTC] BLOCK: Importing request 3 ..
+[14-Jan-2024 16:42:40 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=3&wireframe=yes
+[14-Jan-2024 16:42:41 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[14-Jan-2024 16:42:41 UTC] BLOCK: Completed request 3
+[14-Jan-2024 16:42:41 UTC] BLOCK: Importing request 4 ..
+[14-Jan-2024 16:42:41 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=4&wireframe=yes
+[14-Jan-2024 16:42:42 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[14-Jan-2024 16:42:42 UTC] BLOCK: Completed request 4
+[14-Jan-2024 16:42:42 UTC] BLOCK: Importing request 5 ..
+[14-Jan-2024 16:42:42 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=5&wireframe=yes
+[14-Jan-2024 16:42:42 UTC] BLOCK: Storing in option ast-block-templates-blocks-5
+[14-Jan-2024 16:42:42 UTC] BLOCK: Completed request 5
+[14-Jan-2024 16:42:42 UTC] BLOCK: Importing request 6 ..
+[14-Jan-2024 16:42:42 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=6&wireframe=yes
+[14-Jan-2024 16:42:43 UTC] BLOCK: Storing in option ast-block-templates-blocks-6
+[14-Jan-2024 16:42:43 UTC] BLOCK: Completed request 6
+[14-Jan-2024 16:42:43 UTC] BLOCK: Importing request 7 ..
+[14-Jan-2024 16:42:43 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=7&wireframe=yes
+[14-Jan-2024 16:42:44 UTC] BLOCK: Storing in option ast-block-templates-blocks-7
+[14-Jan-2024 16:42:44 UTC] BLOCK: Completed request 7
+[14-Jan-2024 16:42:44 UTC] BLOCK: Importing request 8 ..
+[14-Jan-2024 16:42:44 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=8&wireframe=yes
+[14-Jan-2024 16:42:45 UTC] BLOCK: Storing in option ast-block-templates-blocks-8
+[14-Jan-2024 16:42:45 UTC] BLOCK: Completed request 8
+[14-Jan-2024 16:42:45 UTC] SITE: Getting Total Sites
+[14-Jan-2024 16:42:45 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg&per_page=30
+[14-Jan-2024 16:42:45 UTC] SITE: Request count 7
+[14-Jan-2024 16:42:45 UTC] SITE: Importing request 1 ..
+[14-Jan-2024 16:42:45 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=1&page-builder=gutenberg
+[14-Jan-2024 16:42:45 UTC] SITE: Storing in option ast-block-templates-sites-1
+[14-Jan-2024 16:42:45 UTC] SITE: Completed request 1
+[14-Jan-2024 16:42:45 UTC] SITE: Importing request 2 ..
+[14-Jan-2024 16:42:45 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=2&page-builder=gutenberg
+[14-Jan-2024 16:42:46 UTC] SITE: Storing in option ast-block-templates-sites-2
+[14-Jan-2024 16:42:46 UTC] SITE: Completed request 2
+[14-Jan-2024 16:42:46 UTC] SITE: Importing request 3 ..
+[14-Jan-2024 16:42:46 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=3&page-builder=gutenberg
+[14-Jan-2024 16:42:46 UTC] SITE: Storing in option ast-block-templates-sites-3
+[14-Jan-2024 16:42:46 UTC] SITE: Completed request 3
+[14-Jan-2024 16:42:46 UTC] SITE: Importing request 4 ..
+[14-Jan-2024 16:42:46 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=4&page-builder=gutenberg
+[14-Jan-2024 16:42:47 UTC] SITE: Storing in option ast-block-templates-sites-4
+[14-Jan-2024 16:42:47 UTC] SITE: Completed request 4
+[14-Jan-2024 16:42:47 UTC] SITE: Importing request 5 ..
+[14-Jan-2024 16:42:47 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=5&page-builder=gutenberg
+[14-Jan-2024 16:42:47 UTC] SITE: Storing in option ast-block-templates-sites-5
+[14-Jan-2024 16:42:47 UTC] SITE: Completed request 5
+[14-Jan-2024 16:42:47 UTC] SITE: Importing request 6 ..
+[14-Jan-2024 16:42:47 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=6&page-builder=gutenberg
+[14-Jan-2024 16:42:48 UTC] SITE: Storing in option ast-block-templates-sites-6
+[14-Jan-2024 16:42:48 UTC] SITE: Completed request 6
+[14-Jan-2024 16:42:48 UTC] SITE: Importing request 7 ..
+[14-Jan-2024 16:42:48 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=7&page-builder=gutenberg
+[14-Jan-2024 16:42:48 UTC] SITE: Storing in option ast-block-templates-sites-7
+[14-Jan-2024 16:42:48 UTC] SITE: Completed request 7
+[14-Jan-2024 16:42:48 UTC] Sync process for Gutenberg Blocks is done.
+[14-Jan-2024 16:42:48 UTC] BLOCK: Getting Server Custimizer CSS
+[14-Jan-2024 16:42:48 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/get-customizer-css
+[14-Jan-2024 16:42:49 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[14-Jan-2024 16:42:49 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[14-Jan-2024 16:42:49 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[14-Jan-2024 16:42:49 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[14-Jan-2024 16:42:49 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[14-Jan-2024 16:42:49 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[14-Jan-2024 16:42:49 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[14-Jan-2024 16:42:49 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[14-Jan-2024 21:56:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[14-Jan-2024 21:56:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[14-Jan-2024 21:56:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[14-Jan-2024 21:56:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[14-Jan-2024 21:56:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[14-Jan-2024 21:56:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[14-Jan-2024 21:56:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[14-Jan-2024 21:56:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[14-Jan-2024 22:27:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[14-Jan-2024 22:27:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[14-Jan-2024 22:27:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[14-Jan-2024 22:27:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[14-Jan-2024 22:27:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[14-Jan-2024 22:27:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[14-Jan-2024 22:27:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[14-Jan-2024 22:27:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[14-Jan-2024 23:13:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\animated-fullscreen-menu\uninstall.php on line 12
+[14-Jan-2024 23:20:32 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[14-Jan-2024 23:20:32 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[14-Jan-2024 23:20:32 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[14-Jan-2024 23:20:32 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[14-Jan-2024 23:20:32 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[14-Jan-2024 23:20:32 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[14-Jan-2024 23:20:32 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[14-Jan-2024 23:20:32 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[15-Jan-2024 09:05:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[15-Jan-2024 09:05:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[15-Jan-2024 09:05:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[15-Jan-2024 09:05:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[15-Jan-2024 09:05:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[15-Jan-2024 09:05:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[15-Jan-2024 09:05:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[15-Jan-2024 09:05:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[15-Jan-2024 09:13:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[15-Jan-2024 09:13:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[15-Jan-2024 09:13:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[15-Jan-2024 09:13:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[15-Jan-2024 09:13:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[15-Jan-2024 09:13:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[15-Jan-2024 09:13:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[15-Jan-2024 09:13:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[15-Jan-2024 09:16:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[15-Jan-2024 09:16:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[15-Jan-2024 09:16:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[15-Jan-2024 09:16:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[15-Jan-2024 09:16:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[15-Jan-2024 09:16:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[15-Jan-2024 09:16:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[15-Jan-2024 09:16:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[15-Jan-2024 09:34:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[15-Jan-2024 09:34:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[15-Jan-2024 09:34:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[15-Jan-2024 09:34:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[15-Jan-2024 09:34:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[15-Jan-2024 09:34:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[15-Jan-2024 09:34:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[15-Jan-2024 09:34:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[15-Jan-2024 16:43:55 UTC] Sync process for Gutenberg Blocks has started.
+[15-Jan-2024 16:43:55 UTC] CATEGORY: Storing in option ast-block-templates-categories
+[15-Jan-2024 16:43:55 UTC] BLOCK: Requests count 8
+[15-Jan-2024 16:43:55 UTC] BLOCK: Importing request 1 ..
+[15-Jan-2024 16:43:55 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=1&wireframe=yes
+[15-Jan-2024 16:43:55 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[15-Jan-2024 16:43:55 UTC] BLOCK: Completed request 1
+[15-Jan-2024 16:43:55 UTC] BLOCK: Importing request 2 ..
+[15-Jan-2024 16:43:55 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=2&wireframe=yes
+[15-Jan-2024 16:43:56 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[15-Jan-2024 16:43:57 UTC] BLOCK: Completed request 2
+[15-Jan-2024 16:43:57 UTC] BLOCK: Importing request 3 ..
+[15-Jan-2024 16:43:57 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=3&wireframe=yes
+[15-Jan-2024 16:43:57 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[15-Jan-2024 16:43:57 UTC] BLOCK: Completed request 3
+[15-Jan-2024 16:43:57 UTC] BLOCK: Importing request 4 ..
+[15-Jan-2024 16:43:57 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=4&wireframe=yes
+[15-Jan-2024 16:43:58 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[15-Jan-2024 16:43:58 UTC] BLOCK: Completed request 4
+[15-Jan-2024 16:43:58 UTC] BLOCK: Importing request 5 ..
+[15-Jan-2024 16:43:58 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=5&wireframe=yes
+[15-Jan-2024 16:43:58 UTC] BLOCK: Storing in option ast-block-templates-blocks-5
+[15-Jan-2024 16:43:59 UTC] BLOCK: Completed request 5
+[15-Jan-2024 16:43:59 UTC] BLOCK: Importing request 6 ..
+[15-Jan-2024 16:43:59 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=6&wireframe=yes
+[15-Jan-2024 16:43:59 UTC] BLOCK: Storing in option ast-block-templates-blocks-6
+[15-Jan-2024 16:43:59 UTC] BLOCK: Completed request 6
+[15-Jan-2024 16:43:59 UTC] BLOCK: Importing request 7 ..
+[15-Jan-2024 16:43:59 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=7&wireframe=yes
+[15-Jan-2024 16:44:00 UTC] BLOCK: Storing in option ast-block-templates-blocks-7
+[15-Jan-2024 16:44:00 UTC] BLOCK: Completed request 7
+[15-Jan-2024 16:44:00 UTC] BLOCK: Importing request 8 ..
+[15-Jan-2024 16:44:00 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=8&wireframe=yes
+[15-Jan-2024 16:44:00 UTC] BLOCK: Storing in option ast-block-templates-blocks-8
+[15-Jan-2024 16:44:00 UTC] BLOCK: Completed request 8
+[15-Jan-2024 16:44:00 UTC] SITE: Getting Total Sites
+[15-Jan-2024 16:44:00 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg&per_page=30
+[15-Jan-2024 16:44:01 UTC] SITE: Request count 7
+[15-Jan-2024 16:44:01 UTC] SITE: Importing request 1 ..
+[15-Jan-2024 16:44:01 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=1&page-builder=gutenberg
+[15-Jan-2024 16:44:01 UTC] SITE: Storing in option ast-block-templates-sites-1
+[15-Jan-2024 16:44:01 UTC] SITE: Completed request 1
+[15-Jan-2024 16:44:01 UTC] SITE: Importing request 2 ..
+[15-Jan-2024 16:44:01 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=2&page-builder=gutenberg
+[15-Jan-2024 16:44:02 UTC] SITE: Storing in option ast-block-templates-sites-2
+[15-Jan-2024 16:44:02 UTC] SITE: Completed request 2
+[15-Jan-2024 16:44:02 UTC] SITE: Importing request 3 ..
+[15-Jan-2024 16:44:02 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=3&page-builder=gutenberg
+[15-Jan-2024 16:44:02 UTC] SITE: Storing in option ast-block-templates-sites-3
+[15-Jan-2024 16:44:02 UTC] SITE: Completed request 3
+[15-Jan-2024 16:44:02 UTC] SITE: Importing request 4 ..
+[15-Jan-2024 16:44:02 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=4&page-builder=gutenberg
+[15-Jan-2024 16:44:02 UTC] SITE: Storing in option ast-block-templates-sites-4
+[15-Jan-2024 16:44:02 UTC] SITE: Completed request 4
+[15-Jan-2024 16:44:02 UTC] SITE: Importing request 5 ..
+[15-Jan-2024 16:44:02 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=5&page-builder=gutenberg
+[15-Jan-2024 16:44:03 UTC] SITE: Storing in option ast-block-templates-sites-5
+[15-Jan-2024 16:44:03 UTC] SITE: Completed request 5
+[15-Jan-2024 16:44:03 UTC] SITE: Importing request 6 ..
+[15-Jan-2024 16:44:03 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=6&page-builder=gutenberg
+[15-Jan-2024 16:44:03 UTC] SITE: Storing in option ast-block-templates-sites-6
+[15-Jan-2024 16:44:03 UTC] SITE: Completed request 6
+[15-Jan-2024 16:44:03 UTC] SITE: Importing request 7 ..
+[15-Jan-2024 16:44:03 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=7&page-builder=gutenberg
+[15-Jan-2024 16:44:04 UTC] SITE: Storing in option ast-block-templates-sites-7
+[15-Jan-2024 16:44:04 UTC] SITE: Completed request 7
+[15-Jan-2024 16:44:04 UTC] Sync process for Gutenberg Blocks is done.
+[15-Jan-2024 16:44:04 UTC] BLOCK: Getting Server Custimizer CSS
+[15-Jan-2024 16:44:04 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/get-customizer-css
+[15-Jan-2024 19:37:39 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[15-Jan-2024 19:37:39 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[15-Jan-2024 19:37:39 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[15-Jan-2024 19:37:39 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[15-Jan-2024 19:37:39 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[15-Jan-2024 19:37:39 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[15-Jan-2024 19:37:39 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[15-Jan-2024 19:37:39 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[15-Jan-2024 20:47:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[15-Jan-2024 20:47:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[15-Jan-2024 20:47:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[15-Jan-2024 20:47:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[15-Jan-2024 20:47:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[15-Jan-2024 20:47:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[15-Jan-2024 20:47:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[15-Jan-2024 20:47:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[16-Jan-2024 09:31:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[16-Jan-2024 09:31:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[16-Jan-2024 09:31:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[16-Jan-2024 09:31:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[16-Jan-2024 09:31:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[16-Jan-2024 09:31:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[16-Jan-2024 09:31:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[16-Jan-2024 09:31:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[16-Jan-2024 09:31:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[16-Jan-2024 09:31:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[16-Jan-2024 09:31:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[16-Jan-2024 09:31:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[16-Jan-2024 09:31:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[16-Jan-2024 09:31:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[16-Jan-2024 09:31:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[16-Jan-2024 09:31:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[16-Jan-2024 15:27:35 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[16-Jan-2024 16:35:29 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[16-Jan-2024 16:35:29 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[16-Jan-2024 16:35:29 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[16-Jan-2024 16:35:29 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[16-Jan-2024 16:35:29 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[16-Jan-2024 16:35:29 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[16-Jan-2024 16:35:29 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[16-Jan-2024 16:35:29 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[16-Jan-2024 16:45:50 UTC] Sync process for Gutenberg Blocks has started.
+[16-Jan-2024 16:45:50 UTC] CATEGORY: Storing in option ast-block-templates-categories
+[16-Jan-2024 16:45:50 UTC] BLOCK: Requests count 8
+[16-Jan-2024 16:45:50 UTC] BLOCK: Importing request 1 ..
+[16-Jan-2024 16:45:50 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=1&wireframe=yes
+[16-Jan-2024 16:45:51 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[16-Jan-2024 16:45:51 UTC] BLOCK: Completed request 1
+[16-Jan-2024 16:45:51 UTC] BLOCK: Importing request 2 ..
+[16-Jan-2024 16:45:51 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=2&wireframe=yes
+[16-Jan-2024 16:45:51 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[16-Jan-2024 16:45:52 UTC] BLOCK: Completed request 2
+[16-Jan-2024 16:45:52 UTC] BLOCK: Importing request 3 ..
+[16-Jan-2024 16:45:52 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=3&wireframe=yes
+[16-Jan-2024 16:45:53 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[16-Jan-2024 16:45:53 UTC] BLOCK: Completed request 3
+[16-Jan-2024 16:45:53 UTC] BLOCK: Importing request 4 ..
+[16-Jan-2024 16:45:53 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=4&wireframe=yes
+[16-Jan-2024 16:45:54 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[16-Jan-2024 16:45:54 UTC] BLOCK: Completed request 4
+[16-Jan-2024 16:45:54 UTC] BLOCK: Importing request 5 ..
+[16-Jan-2024 16:45:54 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=5&wireframe=yes
+[16-Jan-2024 16:45:54 UTC] BLOCK: Storing in option ast-block-templates-blocks-5
+[16-Jan-2024 16:45:54 UTC] BLOCK: Completed request 5
+[16-Jan-2024 16:45:54 UTC] BLOCK: Importing request 6 ..
+[16-Jan-2024 16:45:54 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=6&wireframe=yes
+[16-Jan-2024 16:45:55 UTC] BLOCK: Storing in option ast-block-templates-blocks-6
+[16-Jan-2024 16:45:55 UTC] BLOCK: Completed request 6
+[16-Jan-2024 16:45:55 UTC] BLOCK: Importing request 7 ..
+[16-Jan-2024 16:45:55 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=7&wireframe=yes
+[16-Jan-2024 16:45:56 UTC] BLOCK: Storing in option ast-block-templates-blocks-7
+[16-Jan-2024 16:45:56 UTC] BLOCK: Completed request 7
+[16-Jan-2024 16:45:56 UTC] BLOCK: Importing request 8 ..
+[16-Jan-2024 16:45:56 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=8&wireframe=yes
+[16-Jan-2024 16:45:56 UTC] BLOCK: Storing in option ast-block-templates-blocks-8
+[16-Jan-2024 16:45:56 UTC] BLOCK: Completed request 8
+[16-Jan-2024 16:45:56 UTC] SITE: Getting Total Sites
+[16-Jan-2024 16:45:56 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg&per_page=30
+[16-Jan-2024 16:45:57 UTC] SITE: Request count 7
+[16-Jan-2024 16:45:57 UTC] SITE: Importing request 1 ..
+[16-Jan-2024 16:45:57 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=1&page-builder=gutenberg
+[16-Jan-2024 16:45:57 UTC] SITE: Storing in option ast-block-templates-sites-1
+[16-Jan-2024 16:45:57 UTC] SITE: Completed request 1
+[16-Jan-2024 16:45:57 UTC] SITE: Importing request 2 ..
+[16-Jan-2024 16:45:57 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=2&page-builder=gutenberg
+[16-Jan-2024 16:45:57 UTC] SITE: Storing in option ast-block-templates-sites-2
+[16-Jan-2024 16:45:57 UTC] SITE: Completed request 2
+[16-Jan-2024 16:45:57 UTC] SITE: Importing request 3 ..
+[16-Jan-2024 16:45:57 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=3&page-builder=gutenberg
+[16-Jan-2024 16:45:58 UTC] SITE: Storing in option ast-block-templates-sites-3
+[16-Jan-2024 16:45:58 UTC] SITE: Completed request 3
+[16-Jan-2024 16:45:58 UTC] SITE: Importing request 4 ..
+[16-Jan-2024 16:45:58 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=4&page-builder=gutenberg
+[16-Jan-2024 16:45:58 UTC] SITE: Storing in option ast-block-templates-sites-4
+[16-Jan-2024 16:45:58 UTC] SITE: Completed request 4
+[16-Jan-2024 16:45:58 UTC] SITE: Importing request 5 ..
+[16-Jan-2024 16:45:58 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=5&page-builder=gutenberg
+[16-Jan-2024 16:45:59 UTC] SITE: Storing in option ast-block-templates-sites-5
+[16-Jan-2024 16:45:59 UTC] SITE: Completed request 5
+[16-Jan-2024 16:45:59 UTC] SITE: Importing request 6 ..
+[16-Jan-2024 16:45:59 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=6&page-builder=gutenberg
+[16-Jan-2024 16:45:59 UTC] SITE: Storing in option ast-block-templates-sites-6
+[16-Jan-2024 16:45:59 UTC] SITE: Completed request 6
+[16-Jan-2024 16:45:59 UTC] SITE: Importing request 7 ..
+[16-Jan-2024 16:45:59 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=7&page-builder=gutenberg
+[16-Jan-2024 16:45:59 UTC] SITE: Storing in option ast-block-templates-sites-7
+[16-Jan-2024 16:45:59 UTC] SITE: Completed request 7
+[16-Jan-2024 16:45:59 UTC] Sync process for Gutenberg Blocks is done.
+[16-Jan-2024 16:46:00 UTC] BLOCK: Getting Server Custimizer CSS
+[16-Jan-2024 16:46:00 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/get-customizer-css
+[16-Jan-2024 17:25:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[16-Jan-2024 17:25:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[16-Jan-2024 17:25:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[16-Jan-2024 17:25:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[16-Jan-2024 17:25:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[16-Jan-2024 17:25:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[16-Jan-2024 17:25:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[16-Jan-2024 17:25:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[16-Jan-2024 17:50:56 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\anayka\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[16-Jan-2024 17:50:56 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\anayka\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[16-Jan-2024 17:50:56 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\anayka\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[16-Jan-2024 17:50:56 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\anayka\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[16-Jan-2024 17:50:56 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\anayka\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[16-Jan-2024 17:50:56 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\anayka\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[16-Jan-2024 17:50:56 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\anayka\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[16-Jan-2024 17:50:56 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Eric\Local Sites\anayka\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[18-Jan-2024 11:22:23 UTC] Sync process for Gutenberg Blocks has started.
+[18-Jan-2024 11:22:23 UTC] CATEGORY: Storing in option ast-block-templates-categories
+[18-Jan-2024 11:22:23 UTC] BLOCK: Requests count 8
+[18-Jan-2024 11:22:23 UTC] BLOCK: Importing request 1 ..
+[18-Jan-2024 11:22:23 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=1&wireframe=yes
+[18-Jan-2024 11:22:24 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[18-Jan-2024 11:22:24 UTC] BLOCK: Completed request 1
+[18-Jan-2024 11:22:24 UTC] BLOCK: Importing request 2 ..
+[18-Jan-2024 11:22:24 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=2&wireframe=yes
+[18-Jan-2024 11:22:24 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[18-Jan-2024 11:22:24 UTC] BLOCK: Completed request 2
+[18-Jan-2024 11:22:24 UTC] BLOCK: Importing request 3 ..
+[18-Jan-2024 11:22:24 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=3&wireframe=yes
+[18-Jan-2024 11:22:25 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[18-Jan-2024 11:22:25 UTC] BLOCK: Completed request 3
+[18-Jan-2024 11:22:25 UTC] BLOCK: Importing request 4 ..
+[18-Jan-2024 11:22:25 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=4&wireframe=yes
+[18-Jan-2024 11:22:26 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[18-Jan-2024 11:22:26 UTC] BLOCK: Completed request 4
+[18-Jan-2024 11:22:26 UTC] BLOCK: Importing request 5 ..
+[18-Jan-2024 11:22:26 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=5&wireframe=yes
+[18-Jan-2024 11:22:26 UTC] BLOCK: Storing in option ast-block-templates-blocks-5
+[18-Jan-2024 11:22:26 UTC] BLOCK: Completed request 5
+[18-Jan-2024 11:22:26 UTC] BLOCK: Importing request 6 ..
+[18-Jan-2024 11:22:26 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=6&wireframe=yes
+[18-Jan-2024 11:22:26 UTC] BLOCK: Storing in option ast-block-templates-blocks-6
+[18-Jan-2024 11:22:26 UTC] BLOCK: Completed request 6
+[18-Jan-2024 11:22:26 UTC] BLOCK: Importing request 7 ..
+[18-Jan-2024 11:22:26 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=7&wireframe=yes
+[18-Jan-2024 11:22:27 UTC] BLOCK: Storing in option ast-block-templates-blocks-7
+[18-Jan-2024 11:22:27 UTC] BLOCK: Completed request 7
+[18-Jan-2024 11:22:27 UTC] BLOCK: Importing request 8 ..
+[18-Jan-2024 11:22:27 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=8&wireframe=yes
+[18-Jan-2024 11:22:28 UTC] BLOCK: Storing in option ast-block-templates-blocks-8
+[18-Jan-2024 11:22:28 UTC] BLOCK: Completed request 8
+[18-Jan-2024 11:22:28 UTC] SITE: Getting Total Sites
+[18-Jan-2024 11:22:28 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg&per_page=30
+[18-Jan-2024 11:22:28 UTC] SITE: Request count 7
+[18-Jan-2024 11:22:28 UTC] SITE: Importing request 1 ..
+[18-Jan-2024 11:22:28 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=1&page-builder=gutenberg
+[18-Jan-2024 11:22:28 UTC] SITE: Storing in option ast-block-templates-sites-1
+[18-Jan-2024 11:22:28 UTC] SITE: Completed request 1
+[18-Jan-2024 11:22:28 UTC] SITE: Importing request 2 ..
+[18-Jan-2024 11:22:28 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=2&page-builder=gutenberg
+[18-Jan-2024 11:22:29 UTC] SITE: Storing in option ast-block-templates-sites-2
+[18-Jan-2024 11:22:29 UTC] SITE: Completed request 2
+[18-Jan-2024 11:22:29 UTC] SITE: Importing request 3 ..
+[18-Jan-2024 11:22:29 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=3&page-builder=gutenberg
+[18-Jan-2024 11:22:29 UTC] SITE: Storing in option ast-block-templates-sites-3
+[18-Jan-2024 11:22:29 UTC] SITE: Completed request 3
+[18-Jan-2024 11:22:29 UTC] SITE: Importing request 4 ..
+[18-Jan-2024 11:22:29 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=4&page-builder=gutenberg
+[18-Jan-2024 11:22:29 UTC] SITE: Storing in option ast-block-templates-sites-4
+[18-Jan-2024 11:22:29 UTC] SITE: Completed request 4
+[18-Jan-2024 11:22:29 UTC] SITE: Importing request 5 ..
+[18-Jan-2024 11:22:29 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=5&page-builder=gutenberg
+[18-Jan-2024 11:22:30 UTC] SITE: Storing in option ast-block-templates-sites-5
+[18-Jan-2024 11:22:30 UTC] SITE: Completed request 5
+[18-Jan-2024 11:22:30 UTC] SITE: Importing request 6 ..
+[18-Jan-2024 11:22:30 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=6&page-builder=gutenberg
+[18-Jan-2024 11:22:30 UTC] SITE: Storing in option ast-block-templates-sites-6
+[18-Jan-2024 11:22:30 UTC] SITE: Completed request 6
+[18-Jan-2024 11:22:30 UTC] SITE: Importing request 7 ..
+[18-Jan-2024 11:22:30 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=7&page-builder=gutenberg
+[18-Jan-2024 11:22:31 UTC] SITE: Storing in option ast-block-templates-sites-7
+[18-Jan-2024 11:22:31 UTC] SITE: Completed request 7
+[18-Jan-2024 11:22:31 UTC] Sync process for Gutenberg Blocks is done.
+[18-Jan-2024 11:22:31 UTC] BLOCK: Getting Server Custimizer CSS
+[18-Jan-2024 11:22:31 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/get-customizer-css
